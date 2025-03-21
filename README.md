@@ -1,1 +1,0 @@
-# geneticAlgorithmWeek6-2
